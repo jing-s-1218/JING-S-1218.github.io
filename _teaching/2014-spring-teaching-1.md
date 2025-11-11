@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching fellow"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Yale University, Computer Science"
-date: 
+date: 2025-01-13
 location: " "
 ---
 
