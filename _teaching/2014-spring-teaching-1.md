@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Spectral Graph Theory"
 collection: teaching
-type: "Undergraduate and Graduate course"
+type: "teaching fellow"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Yale University, Computer Science"
 date: 2025 Spring
