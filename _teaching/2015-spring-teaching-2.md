@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Game Theory"
 collection: teaching
-type: ""
+type: "Teaching Fellow"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Yale University, Computer Science"
 date: 2024-8-27
